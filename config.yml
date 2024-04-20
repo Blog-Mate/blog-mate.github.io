@@ -1,1 +1,9 @@
 # Config file
+
+# Blog details
+Blog Name: ['My Awsome Blog']
+Author Name: ['Author']
+Theme: ['Normal']
+
+# Contact details
+Author Email: ['Example@example.com']
