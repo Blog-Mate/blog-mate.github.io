@@ -1,10 +1,2 @@
-# Just The Basics
 name:['BlogMate Demo']
-
-# Author Details (who is writing this blog)
-Author Name:['Author']
-Author Email:['CHANGEME@CHANGEME.CHANGEME']
-
-# Do not change the below unless you know what you are doing!
-
 theme:['minima']
