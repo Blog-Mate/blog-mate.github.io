@@ -4,3 +4,4 @@
 
 [![pages-build-deployment](https://github.com/Blog-Mate/blog-mate.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Blog-Mate/blog-mate.github.io/actions/workflows/pages/pages-build-deployment)
 
+[![.github/workflows/Testing.yml](https://github.com/Blog-Mate/blog-mate.github.io/actions/workflows/Testing.yml/badge.svg?branch=main)](https://github.com/Blog-Mate/blog-mate.github.io/actions/workflows/Testing.yml)
