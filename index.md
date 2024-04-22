@@ -1,3 +1,3 @@
 
-# Mate
+# BlogMate
 hi
